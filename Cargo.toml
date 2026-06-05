@@ -3,6 +3,7 @@ name = "tui-hex-view"
 version = "0.1.0"
 edition = "2024"
 description = "Ratatui widgets for ANSI logs and hex/ascii byte viewing"
+readme = "README.md"
 
 [dependencies]
 ratatui = "0.30"
