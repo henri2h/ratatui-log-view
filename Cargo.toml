@@ -1,0 +1,11 @@
+[package]
+name = "tui-hex-view"
+version = "0.1.0"
+edition = "2024"
+description = "Ratatui widgets for ANSI logs and hex/ascii byte viewing"
+
+[dependencies]
+ratatui = "0.30"
+crossterm = "0.28"
+ansi-to-tui = "8.0.1"
+unicode-width = "0.2"
