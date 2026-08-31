@@ -1,5 +1,7 @@
 # tui-hex-view
 
+*WARNING!* This was done by AI
+
 Lightweight [ratatui](https://github.com/ratatui/ratatui) widgets for viewing ANSI-colored logs and binary data.
 
 ## Features
